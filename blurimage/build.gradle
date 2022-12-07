@@ -11,14 +11,14 @@ ext {
 
     libraryDescription = 'This Android Project help you to make your image blur in fastest way'
 
-    siteUrl = 'https://github.com/sparrow007/BlurImage'
-    gitUrl = 'https://github.com/sparrow007/BlurImage.git'
+    siteUrl = 'https://github.com/tmagar1123/BlurImage'
+    gitUrl = 'https://github.com/tmagar1123/BlurImage.git'
 
     libraryVersion = '1.1.0'
 
-    developerId = 'sparrow007' // Maven plugin uses this. I don't know if it needs to be anything special.
-    developerName = 'Ankit kumar'
-    developerEmail = 'ankit.steven007@gmail.com'
+    developerId = 'tmagar1123' // Maven plugin uses this. I don't know if it needs to be anything special.
+    developerName = 'Tula Magar'
+    developerEmail = 'tmagar1123@gmail.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'

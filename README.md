@@ -63,7 +63,7 @@ To make blur in synchronous you need to put false in Async method.
    LICENCE
 -----
 
- Copyright 2017 Ankit kumar
+ Copyright 2017 Tula Magar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
